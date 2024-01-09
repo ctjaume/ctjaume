@@ -1,4 +1,4 @@
-![logo](logo_personal.png)
+![logo](logo.png)
 
 <!--
 **ctjaume/ctjaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
