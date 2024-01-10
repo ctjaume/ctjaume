@@ -1,3 +1,3 @@
-![logo](logo_2.png)
+![logo](.png)
 
 [Linkedin](http://www.linkedin.com/in/catalina-tomàs-jaume-miquel-)
